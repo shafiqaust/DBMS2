@@ -13,7 +13,7 @@ DB_NAME = 'employees'
 conn = mysql.connect(
         host="localhost",
         user="root",
-        password="shafiq123",
+        password="XXXXX",
         database ="employees"
     )
 if conn.is_connected():
