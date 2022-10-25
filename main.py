@@ -132,7 +132,7 @@ def createDB():
     dbConnect = conn.connect(
         host="localhost",
         user="root",
-        password="shafiq123"
+        password="XXXXX"
     )
     # Cursor to the database
     start = timer()
